@@ -19,7 +19,7 @@ class MainClass
         MyClass<int> m = new MyClass<int>(5);
         P(5);
         P("Kulpot");
-        //P<string>("Kulpot");
+        //P<string>("Kulpot");  //explicit
         P("potKul");
     }
 }
